@@ -27,7 +27,7 @@
 
 - 怎么下载？如下图，可以不用登录也可以下载全部文件内容
 
-![image-20220517173644627](.\README.assets\image-20220517173644627.png)
+![imp](https://github.com/Freexroot/LearningNotes/blob/main/README.assets/image-20220517173644627.png)
 
 
 
